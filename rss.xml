@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Electric Sheep]]></title>
         <description><![CDATA[Electric Sheep]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/electric-sheep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 22:31:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 23:19:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/electric-sheep/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Deep Dream project released by Google inspired me to reboot this blog, so now almost six months later I've got round to it. Expect to see ideas and projects I find interesting, along with my own poorly informed opinions.</p>]]></description>
-            <link>undefined41f66069-c6c6-4f32-aed4-47a1953c2ccd/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f664c41-49cd-4b78-a2ad-446cce1c005a.jpg">]]></description>
+            <link>https://thegrid.ai/electric-sheep/41f66069-c6c6-4f32-aed4-47a1953c2ccd/index.html</link>
             <guid isPermaLink="false">41f66069-c6c6-4f32-aed4-47a1953c2ccd</guid>
-            <pubDate>Sat, 09 Jan 2016 22:31:46 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 23:19:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
